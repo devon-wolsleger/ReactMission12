@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8HCo3ao7OrjMjkaq4aC4NXl2+T1WJ/I+f8eRNtprrh4f0eU/8A1QMli6mttRS2k+KalNa878XY5L4RjMVddj3A==",
+  "success": true,
+  "projectFilePath": "/Users/devonwolsleger/Desktop/ReactMission12/backend/ReactMission12/ReactMission12/ReactMission12.csproj",
+  "expectedPackageFiles": [
+    "/Users/devonwolsleger/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/devonwolsleger/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/devonwolsleger/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/devonwolsleger/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/devonwolsleger/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/devonwolsleger/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
