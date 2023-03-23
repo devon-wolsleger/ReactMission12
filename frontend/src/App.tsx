@@ -326,7 +326,7 @@ const teamNames = [
 ];
 
 function Welcome() {
-  return (<h1> Basketball, yay </h1>);
+  return (<h1> This is a website all about basketball </h1>);
 }
 
 class Team extends React.Component < {school: string, name: string, city: string, state: string} > {
@@ -337,10 +337,10 @@ class Team extends React.Component < {school: string, name: string, city: string
     return (
       <div>
         <img/>
-        <h2>{oneTeam.school}</h2>
-        <h2>{oneTeam.name}</h2>
-        <h2>{oneTeam.city}</h2>
-        <h2>{oneTeam.state}</h2>
+        <h1>{oneTeam.school}</h1>
+        <h3>{oneTeam.name}</h3>
+        <h3>{oneTeam.city}</h3>
+        <h3>{oneTeam.state}</h3>
       </div>
     );
   }
